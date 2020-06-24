@@ -1,1 +1,2 @@
 Mi primer acrchivo en git
+mi segunda linea versionada
